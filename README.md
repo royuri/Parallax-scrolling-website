@@ -1,3 +1,3 @@
 # Parallax-scrolling-website
 
-Website with built using HTML and CSS.
+Website with parallax scrolling effect built using HTML and CSS.
