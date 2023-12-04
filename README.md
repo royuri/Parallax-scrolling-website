@@ -1,3 +1,3 @@
 # Parallax-scrolling-website
 
- using HTML and CSS.
+built using HTML and CSS.
