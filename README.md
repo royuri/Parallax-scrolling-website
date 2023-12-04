@@ -1,3 +1,3 @@
 # Parallax-scrolling-website
 
-Parallax scrolling website using HTML and CSS.
+Parallax scrolling using HTML and CSS.
